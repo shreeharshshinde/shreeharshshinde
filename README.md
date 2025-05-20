@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>• ERAWA – a gamified safety education platform for children<br>• DreamFields – a career guidance platform for students (ages 10–16)<br><br>🤝 I’m looking to collaborate on:<br>• Open-source projects related to education, maps, and social impact<br>• Projects using MERN, Next.js, or Java Spring Boot<br><br>💛 I’m looking for help with:<br>• Scaling backend systems with PostgreSQL and Redis<br>• Contributing meaningfully to open-source projects like MapLibre<br><br>🌱 I’m currently learning:<br>• Advanced Java with Spring Boot and Microservices<br>• Competitive Programming (CP31 Sheet, Codeforces, Leetcode)<br>• Modern UI/UX using Tailwind CSS and Three.js<br><br>💬 Ask me about:<br>• Full-stack development with MERN or Next.js<br>• PostgreSQL, Drizzle ORM, and Clerk auth<br>• Building gamified learning platforms for kids<br><br>⚡ Fun fact:<br>I’m building solutions for problems most adults hesitate to talk about – through code that educates and empowers 🚀
+### 💫 About Me
+
+- 🔭 Working on **ERAWA** (child safety education) & **DreamFields** (career guidance for kids)  
+- 🤝 Open to collaborating on **open-source**, **education-tech**, and **Java/MERN/Next.js** projects  
+- 💛 Need help with **backend scaling** (PostgreSQL, Redis) & **MapLibre contributions**  
+- 🌱 Learning **Java Spring Boot**, **competitive programming**, and **modern UI with Tailwind/Three.js**  
+- 💬 Ask me about **full-stack dev**, **PostgreSQL/Clerk**, or **gamified learning platforms**  
+- ⚡ Fun fact: I use code to tackle topics adults often avoid – building tools that educate and empower 🚀  
+
 
 
 ## 🌐 Socials:
