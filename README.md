@@ -49,7 +49,7 @@ I'm proud to be a contributor to `maplibre-gl-js`, a popular open-source library
 ### 📊 My GitHub Activity
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
 </div>
 
 <div align="center">
