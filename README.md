@@ -20,3 +20,10 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="https://holopin.io/@shreeharshshinde">
+    <img src="https://holopin.me/shreeharshshinde" alt="@shreeharshshinde's Holopin Badges" width="80%" />
+  </a>
+</div>
+
