@@ -1,6 +1,6 @@
 
-### 📊 My GitHub Activity
 
+<h3 align="center">📊 My GitHub Activity</h3>
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" height="700px" width="820px">
 </div>
@@ -16,11 +16,13 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
+      <h3 align="center">🏆 My Github Trophies</h3>
       <img src="https://github-profile-trophy.vercel.app/?username=shreeharshshinde&theme=tokyonight&column=7"/>
     </td>
   </tr>
 </table>
 
+<h3 align="center">🏅 My Holopin Badges</h3>
 <div align="center">
   <a href="https://holopin.io/@shreeharshshinde">
     <img src="https://holopin.me/shreeharshshinde" alt="@shreeharshshinde's Holopin Badges" width="95%" />
