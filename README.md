@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://holopin.io/@shreeharshshinde">
-    <img src="https://holopin.me/shreeharshshinde" alt="@shreeharshshinde's Holopin Badges" width="80%" />
+    <img src="https://holopin.me/shreeharshshinde" alt="@shreeharshshinde's Holopin Badges" width="95%" />
   </a>
 </div>
 
