@@ -1,11 +1,14 @@
 
+<div align="center">
+  <img src="./mando.gif" width="100%" style="border-radius: 20px; margin-bottom: 20px;" alt="This is the way" />
+</div>
 
 <h3 align="center">📊 My GitHub Activity</h3>
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" height="700px" width="820px">
 </div>
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=shreeharshshinde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -20,7 +23,30 @@
       <img src="https://github-profile-trophy.vercel.app/?username=shreeharshshinde&theme=tokyonight&column=7"/>
     </td>
   </tr>
-</table>
+</table> -->
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreeharshshinde&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
+  </a>
+</div>
+
+<br/>
+
+<h3 align="center">🚀 Languages & Systems</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,cpp,c,java,python,linux,bash,cmake" />
+</div>
+
+<h3 align="center">☁️ Backend, Cloud & DevOps</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,git,github,postgres,mongodb,nodejs,fastapi,spring" />
+</div>
+
+<h3 align="center">🎨 Frontend & Visualization</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css" />
+</div>
 
 <h3 align="center">🏅 My Holopin Badges</h3>
 <div align="center">
