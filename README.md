@@ -48,11 +48,6 @@
   <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,git,github,postgres,mongodb,nodejs,fastapi,spring" />
 </div>
 
-<h3 align="left">📊 Data & Scientific Computing</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,pytorch,tensorflow" />
-</div>
-
 <h3 align="left">🎨 Frontend & Visualization</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css" />
